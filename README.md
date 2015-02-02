@@ -12,7 +12,7 @@
 
     6. Good Luck!
 
-## Referrence
+## Reference
 
     1. http://docs.sencha.com/extjs/5.0/getting_started/getting_started.html
     2. viewModel: http://docs.sencha.com/extjs/5.0/5.0.1-apidocs/#!/api/Ext.app.ViewModel, (How to update ViewModel)
@@ -24,3 +24,4 @@
 ## MVVM
 
     1. MVVN Concept: The viewModel is bound by view by the evnet of data changed and view is bound by viewModel too. both they are update/refresh automatically.
+        ( you can use ajax to update viewModel )
