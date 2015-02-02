@@ -18,6 +18,8 @@
     2. viewModel: http://docs.sencha.com/extjs/5.0/5.0.1-apidocs/#!/api/Ext.app.ViewModel, (How to update ViewModel)
     3. viewController: http://docs.sencha.com/extjs/5.0/5.0.1-apidocs/#!/api/Ext.app.ViewController (How to design View Method)
     4. view: http://docs.sencha.com/extjs/5.0/5.0.1-apidocs/#!/api/Ext.container.Container (How to Config a View)
+    5. router: http://docs.sencha.com/extjs/5.0/application_architecture/router.html (How to design Restful App Routers)
+    6. change to anothwe viewport: http://docs.sencha.com/extjs/5.0/tutorials/login_app.html#Step_5___Add_Login_Logic (destory & create a new one)
 
 ## MVVM
 
