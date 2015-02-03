@@ -20,6 +20,7 @@
     4. view: http://docs.sencha.com/extjs/5.0/5.0.1-apidocs/#!/api/Ext.container.Container (How to Config a View)
     5. router: http://docs.sencha.com/extjs/5.0/application_architecture/router.html (How to design Restful App Routers)
     6. change to anothwe viewport: http://docs.sencha.com/extjs/5.0/tutorials/login_app.html#Step_5___Add_Login_Logic (destory & create a new one)
+    7. ExtJS GPL Download: http://www.sencha.com/products/extjs/details
 
 ## MVVM
 
