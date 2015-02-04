@@ -27,5 +27,16 @@ Ext.define('MyApp.view.main.MainController', {
     updateData: function() {
         this.getViewModel().set('name', 'aabb');
         // will update view automatically.
+
+        console.log(this.getViewModel().getStore('users'));
+        // get Store which regiested in viewModel
     },
+
+    updateStoreData: function() {
+        // test Update Store Data, and check view will be refresh automatically.
+        this.getViewModel().getStore('users').first().set('firstName', 'test2');
+        this.getViewModel().getStore('users').sync();
+        // record.save();
+        // debugger;
+    }
 });
